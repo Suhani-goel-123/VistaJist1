@@ -19,7 +19,7 @@ Vista Jist is not your ordinary news application! 🚀 It's a conversational voi
 
 <!--### Demo Video 📹
 [Watch Demo Video](Demo.mp4)-->
-Deployment Link : https://vista-jist1-new.versel.app/
+Deployment Link : https://vista-jist1-new.vercel.app/
 
 Experience the future of news consumption with Vista Jist! 🎉
 
