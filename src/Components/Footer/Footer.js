@@ -15,14 +15,14 @@ const Footer = () => {
         </a>
         <a
           rel="noopener noreferrer"
-          href="https://twitter.com/CompSciFact?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+          href="https://twitter.com/home"
           target="_blank"
         >
           <i class="fa-brands fa-twitter"></i>
         </a>
         <a
           rel="noopener noreferrer"
-          href="https://github.com/Tech-neophyte/VistaJist"
+          href="https://github.com/Suhani-goel-123/VistaJist1"
           target="_blank"
         >
           <i class="fa-brands fa-github"></i>
